@@ -1,0 +1,2 @@
+# spanish
+basic dictionary
